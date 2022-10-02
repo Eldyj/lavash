@@ -33,6 +33,7 @@ fn main() {
 
                 _ => {
                     println!("unknown argument {argument}!");
+                    break;
                 }
             },
             _ => {
