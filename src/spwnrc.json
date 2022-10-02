@@ -1,5 +1,0 @@
-{
-  "src": "index.spwn",
-  "allow": "readfile",
-  "allow": "writefile"
-}
